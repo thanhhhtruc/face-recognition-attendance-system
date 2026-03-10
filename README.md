@@ -1,13 +1,11 @@
-# COS30082-Facial-Recognition
+# Face Recognition Attendance System
 
 ## Project Overview
-This project is an end-to-end **Facial Recognition Attendance System** designed for the COS30082 Applied Machine Learning course. The system integrates three main components:
+AI-powered facial recognition attendance system with anti-spoofing and emotion detection using TensorFlow and Next.js. The system integrates three main components:
 
 1. **Face Verification**: Identifies if a person is registered in the database.
 2. **Anti-Spoofing Module**: Detects liveness to prevent spoofing using photos or screens.
 3. **Emotion Detection Module**: Analyzes and displays the user's emotional state.
-
-The project consists of a **frontend** built with Next.js and a **backend** implemented in Python using TensorFlow and other libraries.
 
 ---
 
